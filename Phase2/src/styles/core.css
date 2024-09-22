@@ -1,0 +1,10 @@
+body{
+    background-color: #f2e9e4;
+}
+
+.product-display{
+    margin: 5px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
