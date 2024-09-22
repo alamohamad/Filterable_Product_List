@@ -29,8 +29,7 @@ function App() {
     return (
         <div className="App">
           <Header/>
-            <ProductList products={filteredProducts} categories={categories} onCategoryChange={handleFilterChange}
-            />
+            <ProductList products={filteredProducts} categories={categories} onCategoryChange={handleFilterChange}/>
         </div>
     );
 }
