@@ -1,0 +1,24 @@
+header{
+    text-align: center;
+    background-color: #9a8c98;
+    padding: 5px;
+}
+
+
+
+.filter-section{
+    display: flex;
+}
+
+.filter-btn{
+    width: 30%;
+    height: 30px;
+    border: none;
+
+}
+
+.filter-btn:hover{
+    cursor: pointer;
+    background-color:#c9ada7 ;
+    
+}
